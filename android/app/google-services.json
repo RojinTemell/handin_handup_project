@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744253652613",
+    "project_id": "handinhandup",
+    "storage_bucket": "handinhandup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744253652613:android:71e37d088690f856c873ec",
+        "android_client_info": {
+          "package_name": "com.example.handinhandup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPMV9RAooU-VM5d6uNbqN3vXaKHyszBmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
